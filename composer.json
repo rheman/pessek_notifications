@@ -1,0 +1,24 @@
+{
+	"name": "pessek/pessek_notifications",
+    	"description": "Facebook-style site notifications",
+    	"type": "elgg-plugin",
+    	"license": "proprietary",
+	"keywords": [
+		"elgg",
+		"plugin",
+		"notifications"
+	],
+	"authors": [
+		{
+			"name": "Hermand PESSEK",
+			"email": "rhemandaddy@gmail.com"
+		}
+	],
+	"extra": {
+		"installer-name": "pessek_notifications"
+	},
+    	"require": {
+		"php": ">=7.1",
+		"composer/installers": "~1.0",
+	}
+}
